@@ -1,0 +1,20 @@
+{
+  "name": "mobilelegendsplayers",
+  "version": "1.0.0",
+  "description": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Taufan Arif",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.13.12",
+      "errorhandler": "^1.5.0",
+      "mongoskin": "^2.1.0",
+      "morgan": "^1.9.0"
+  }
+}
