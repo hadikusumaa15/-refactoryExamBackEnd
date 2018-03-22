@@ -8,6 +8,7 @@ TYPE THESE STEPS AT TERMINAL(must online, it uses external link for front end)
 1. npm i
 2. mongoimport --host=127.0.0.1 --db employees --collection employees --file ./db/basedata.json --jsonArray
 3. nodemon server.js
+
 ====================
 4. the program shall work at localhost:3003
 #### License : ISC
